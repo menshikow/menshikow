@@ -1,1 +1,1 @@
-(...)[https://menshikow.github.io/]
+[...](https://menshikow.github.io/)
