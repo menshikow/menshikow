@@ -1,1 +1,1 @@
-I like solving interesting problems
+I like solving interesting problems.
